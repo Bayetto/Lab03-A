@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\CEGEP\SESSION 1\PROGRAMATION\VisualStudio\Lab03(A)1.8\Lab03(A)1.8\main.cpp(24,11): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Lab03(A)1.8.vcxproj -> E:\CEGEP\SESSION 1\PROGRAMATION\VisualStudio\Lab03(A)1.8\x64\Debug\Lab03(A)1.8.exe
